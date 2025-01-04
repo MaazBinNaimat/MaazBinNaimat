@@ -1,7 +1,7 @@
 ### Hello World! 🌍 I'm @MaazBinNaimat
 
 - 💻 Full-time coder, part-time dreamer.
-- 🚀 Currently on a mission to conquer the C# universe!
+- 🚀 Currently on a mission to conquer the Dart universe!
 - 🔭 Exploring the depths of software development, one bug at a time.
 - 💬 Let's collaborate on mind-boggling projects that push boundaries and spark innovation!
 - 📫 Reach out to me on LinkedIn. I'm always up for a good tech chat!
